@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Inception",
+        "type": "movie",
+        "status": "published",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "category": "Sci-Fi",
+        "year": 2010,
+        "rating": 8.8,
+        "duration": "2h 28m",
+        "language": "English",
+        "country": "USA",
+        "frontImage": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+        "backImage": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7loZ1Gj9t7kGWNL.jpg",
+        "watchLink": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+        "featured": true,
+        "isNewRelease": false,
+        "isPopular": true,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "director": "Christopher Nolan",
+        "writers": [
+            "Christopher Nolan"
+        ],
+        "awards": [
+            "Oscar for Best Cinematography",
+            "Oscar for Best Sound Mixing"
+        ],
+        "certification": "PG-13"
+    },
+    {
+        "title": "Breaking Bad",
+        "type": "series",
+        "status": "published",
+        "description": "A high school chemistry teacher turned meth producer navigates the dangers of the criminal underworld.",
+        "category": "Crime",
+        "year": 2008,
+        "rating": 9.5,
+        "duration": "5 Seasons",
+        "language": "English",
+        "country": "USA",
+        "frontImage": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+        "backImage": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+        "watchLink": "",
+        "featured": false,
+        "isNewRelease": false,
+        "isPopular": true,
+        "cast": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        "director": "Vince Gilligan",
+        "writers": [
+            "Vince Gilligan"
+        ],
+        "awards": [
+            "Emmy for Outstanding Drama Series"
+        ],
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "title": "Pilot",
+                        "description": "Walt is diagnosed with cancer...",
+                        "link": "https://example.com/s1e1"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "title": "Cat's in the Bag...",
+                        "description": "Walt and Jesse try to dispose of a body...",
+                        "link": "https://example.com/s1e2"
+                    }
+                ]
+            }
+        ]
+    }
+]
